@@ -42,6 +42,11 @@ Asi detectar los requerimientos  más frecuentes  en los usuarios .
 
 ![diagrama](img/afinidad.jpeg)
 
+El diagrama de afinidad pudimos observar que las personas que asisten a los teatros  tienen los siguientes requerimientos más frecuentes :
+- Información del elenco y sinopsis
+- Facilidad para la elección de los asientos
+- Poder visualizar los asientos disponibles  y por categoria
+- Actualizacion constante de las funciones teatrales.
 
 #### USER PERSONA
 Definimos a nuestro usuario principal.
