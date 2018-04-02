@@ -47,3 +47,8 @@ Asi detectar los requerimientos  más frecuentes  en los usuarios .
 Definimos a nuestro usuario principal.
 
 ![user](img/USER.png)
+
+#### BUSINESS MODEL CANVAS
+
+![bmc](img/bmc1.png)
+![bmc](img/bmc2.png)
