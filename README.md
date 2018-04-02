@@ -48,25 +48,42 @@ Definimos a nuestro usuario principal.
 
 ![user](img/USER.png)
 
+#### STAKEHOLDERS
+-  Personas que frecuentan los teatros
+- Seguidores del arte
+- equipo de trabajo
+- Equipo de desarollo
+- publicistas
+- teatros
+- empresarios
+
+
+
 #### BUSINESS MODEL CANVAS
 
 ![bmc](img/bmc1.png)
 ![bmc](img/bmc2.png)
 
-### PERSON STATEMS
+### PROBLEM STATEMENTS
 
-- Carolina: Quisiera que cuando compre ticket para el teatro me brinden los asientos para tener la noción de donde estaria comoda para la función.
-- Carolina: Desearia que la mayoria de las funciones teatrales la pueda comprar y no solo sea información.
+- **Carolina**: Quisiera que cuando compre ticket para el teatro me brinden los asientos para tener la noción de donde estaria comoda para la función.
+- **Carolina** Desearia que la mayoria de las funciones teatrales la pueda comprar y no solo sea información.
 
-  - HMW
-- ¿Cómo podriamos lograr que el usuario pueda adquirir sus entradas con sus
+### HMW
+- ¿**Cómo podriamos ** lograr que el usuario pueda adquirir sus entradas con sus
  asientos?
-- ¿Cómo podemos hacer para que los teatros muestren asientos para las personas discapcitas?
+- ¿**Cómo podriamos ** hacer que los teatros muestren asientos para las personas discapacitadas?
 
-  - WHAT IF
-- ¿What if joinnus ofrece ventas de todas las funciones teatrales del Perú? 
-- ¿What if joinnus que ademas te brinde la venta de las funciones teatrales, que tenga opciones para poder ver y elegir en que sitio me puedo sentar
+### WHAT IF
+- ¿What if joinnus ofrece ventas de todas las funciones teatrales del Perú?
+- ¿What if joinnus que ademas te brinde la venta de las funciones teatrales, que tenga opciones para poder ver y elegir el lugar que deseo?
+
+Despúes de analizar toda la información , y de plantearnos las problematicas más frecuentes  , tambien nos planteamos
+las soluciones posibles.
+
+
 
 
 [Marvel desktop](https://marvelapp.com/65hcdid/screen/40537108)
 
+[Marvel mobile](https://marvelapp.com/cbgh6h9/screen/40543843)
