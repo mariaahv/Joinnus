@@ -52,3 +52,21 @@ Definimos a nuestro usuario principal.
 
 ![bmc](img/bmc1.png)
 ![bmc](img/bmc2.png)
+
+### PERSON STATEMS
+
+- Carolina: Quisiera que cuando compre ticket para el teatro me brinden los asientos para tener la noción de donde estaria comoda para la función.
+- Carolina: Desearia que la mayoria de las funciones teatrales la pueda comprar y no solo sea información.
+
+  - HMW
+- ¿Cómo podriamos lograr que el usuario pueda adquirir sus entradas con sus
+ asientos?
+- ¿Cómo podemos hacer para que los teatros muestren asientos para las personas discapcitas?
+
+  - WHAT IF
+- ¿What if joinnus ofrece ventas de todas las funciones teatrales del Perú? 
+- ¿What if joinnus que ademas te brinde la venta de las funciones teatrales, que tenga opciones para poder ver y elegir en que sitio me puedo sentar
+
+
+[Marvel desktop](https://marvelapp.com/65hcdid/screen/40537108)
+
