@@ -2,12 +2,15 @@
 
 **Joinnus es una plataforma que conecta personas con los mismos intereses permitiendo a usuarios y a empresas la creación, difusión, gestión y cobro de eventos en Lima y en todo el país de manera sencilla, eficaz y gratuita.**
 
-###### Integrantes:
+## Integrantes:
 - Angelica Villalobos
 - Flora Huerta
 
 #### OBJETIVO :
 Joinnus nos ha encargado la tarea de  mejorar la experiencia de los usuarios  al momento  de realizar  la compra de tickets de   teatro. Ofreciéndoles las facilidades para poder realizar  todo el proceso de  compra de tickets de manera online.
+- Requisitos específicos
+
+Como resultado de la evaluación se requiere • Informe de estudio de validación de interfaces UX UI (web y móvil) con usuarios potenciales. • Optimización de interfaces UX UI (web y móvil) en función a los inputs dados por usuarios potenciales.
 
 ### Público Objetivo :
 - Amantes del teatro.
@@ -18,12 +21,12 @@ Joinnus nos ha encargado la tarea de  mejorar la experiencia de los usuarios  al
 
 ## RESEARCH
 
-#### * **ENTREVISTAS**
+#### *ENTREVISTAS*
 Para  poder indagar más a profundidad las necesidades de  los usuarios y sus requerimientos, salimos a entrevistar al teatro Peruano-japonés a  personas que frecuentan los teatros, y así lograr entender cuáles son su interés, problemática, motivos, expectativas, etc.
 
 ![entrevista](img/entrevista.jpeg)
 
-#### * **BENCHMARKING**
+#### *BENCHMARKING*
 
 Realizamos un estudio de Benchmarking , Para situarnos en el contexto respecto a los competidores  del mercado, permitiéndonos saber si estamos haciendo bien las cosas o bien tenemos margen para mejorarlas y detectar oportunidades, amenazas así como debilidades y fortalezas .
 El estudio lo realizamos a plataformas como :
@@ -36,11 +39,11 @@ El estudio lo realizamos a plataformas como :
 
 ![benchmarking](img/bench.png)
 
-
+### AFINITY MAP
 Luego de recabar información  realizamos  un brainstorming , para lograr organizar  nuestras ideas realizamos  un  diagrama  de afinidad ,  donde agrupamos  los datos  más frecuentes  .
 Asi detectar los requerimientos  más frecuentes  en los usuarios .
 
-![diagrama](img/afinidad.jpeg)
+![diagrama](img/afinidad.jpg)
 
 El diagrama de afinidad pudimos observar que las personas que asisten a los teatros  tienen los siguientes requerimientos más frecuentes :
 - Información del elenco y sinopsis
@@ -75,9 +78,9 @@ Definimos a nuestro usuario principal.
 - **Carolina** Desearia que la mayoria de las funciones teatrales la pueda comprar y no solo sea información.
 
 ### HMW
-- ¿**Cómo podriamos ** lograr que el usuario pueda adquirir sus entradas con sus
+- **¿Cómo podriamos** lograr que el usuario pueda adquirir sus entradas con sus
  asientos?
-- ¿**Cómo podriamos ** hacer que los teatros muestren asientos para las personas discapacitadas?
+- **¿Cómo podriamos** hacer que los teatros muestren asientos para las personas discapacitadas?
 
 ### WHAT IF
 - ¿What if joinnus ofrece ventas de todas las funciones teatrales del Perú?
